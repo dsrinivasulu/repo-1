@@ -1,4 +1,4 @@
-package com.slokam.bulid;
+package com.hcl.bulid;
 
 public class Brick implements bulidingproject{
 
