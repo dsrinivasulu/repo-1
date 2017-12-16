@@ -10,6 +10,7 @@ public class Wall implements bulidingproject {
 
 	@Override
 	public void bulid() {
+		
 		System.out.println("starting the wall");
 		for (bulidingproject bulidingproject : list) {
 			
